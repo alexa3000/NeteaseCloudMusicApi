@@ -6,3 +6,4 @@ node_modules
 .history
 examples/moddef.json
 yarn.lock 
+runnet.bat 

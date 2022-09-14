@@ -1,0 +1,1 @@
+copy config.txt util\config.json
