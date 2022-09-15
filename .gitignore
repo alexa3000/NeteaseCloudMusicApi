@@ -1,5 +1,6 @@
 .DS_Store
 node_modules
+functions
 *.log
 .idea
 .vscode
@@ -7,3 +8,8 @@ node_modules
 examples/moddef.json
 yarn.lock 
 runnet.bat 
+package-lock.json
+
+stage.bat
+unstage.bat
+
